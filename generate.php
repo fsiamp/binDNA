@@ -1,7 +1,7 @@
 <?php
 
 $i= 0;
-while ($i<=7) {
+while ($i<=1) {
 $consumerKey = '9jFgRu4natCndfucJ06bZQv23';
 $consumerSecret = '2XWCrtxHGL0Ba21LpvnOsYjCGpjRWinKEt2A1ClG4235g';
 $oAuthToken = '567427617-88ncjIVrBRX08ZXB42I7hqcVldYHGBmMXxdV5jhqsd23';
@@ -15,7 +15,7 @@ $choice_int = rand(0, 1);
 $array = array();
 
 
-$integer = 260;
+$integer = 280;
 
 for ($x = 1; $x <= $integer; $x++)
 {
