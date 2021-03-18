@@ -2,10 +2,10 @@
 
 $i= 0;
 while ($i<=1) {
-$consumerKey = '9jFgRu4natCndfucJ06bZQv23';
-$consumerSecret = '2XWCrtxHGL0Ba21LpvnOsYjCGpjRWinKEt2A1ClG4235g';
-$oAuthToken = '567427617-88ncjIVrBRX08ZXB42I7hqcVldYHGBmMXxdV5jhqsd23';
-$oAuthSecret = '5oQRhRcjqPiqSFUlRJIEbyd5p0cdCpV6bDkf0cdkg128';
+$consumerKey = '$CONSUMER_KEY';
+$consumerSecret = '$CONSUMER_SECRET';
+$oAuthToken = '$OAUTH_TOKEN';
+$oAuthSecret = '$OAUTH_SECRET';
 
 $inputDNA = array('G','C','T','A');
 
